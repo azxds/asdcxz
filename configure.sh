@@ -9,14 +9,14 @@ cat << EOF > /etc/v2ray/config.json
         "protocol": "vmess",
         "settings": {
             "clients": [{
-                "id": "bbb2c886-12fd-4ba6-b6e7-bfb80f0022d2",
+                "id": "9c32f539-f10a-4b32-9eb3-1f10058edeab",
                 "alterId": 0
             }]
         },
         "streamSettings": {
             "network": "ws",
             "wsSettings": {
-                "path": "/lawrkrc"
+                "path": "xcvvj"
             }
         }
     }],
